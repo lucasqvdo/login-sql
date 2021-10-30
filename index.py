@@ -17,8 +17,7 @@ janela.resizable(width=False, height=False)
 #Carregar Imagens#
 
 
-
-logo = PhotoImage(file="logo.png")
+logo = PhotoImage(file="icons/logo.png")
 
 
 
